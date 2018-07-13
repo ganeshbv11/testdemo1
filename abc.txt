@@ -1,5 +1,5 @@
 this is branch 3 file 
-- modified
+- modified in branch 3
 
 
  
