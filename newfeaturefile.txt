@@ -3,5 +3,9 @@
 - modified
 =======
 this is modified in feature 3 branch 
+<<<<<<< HEAD
+>>>>>>> feature3
+=======
+- done
 >>>>>>> feature3
 
