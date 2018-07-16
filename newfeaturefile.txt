@@ -1,11 +1,8 @@
-<<<<<<< HEAD
- this is new feature file in feature1 branch
-- modified
-=======
+
 this is modified in feature 3 branch 
-<<<<<<< HEAD
->>>>>>> feature3
-=======
-- done
->>>>>>> feature3
+this is new feature file in feature 1 branch
+- modified
+ 16 July
+
+
 
