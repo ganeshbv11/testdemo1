@@ -1,6 +1,7 @@
 
 
 this is modified in feature 3 branch 
+
 this is new feature file in feature 1 branch
 - modified
  16 July
@@ -11,4 +12,11 @@ this is new feature file in feature 1 branch
 
 - new changes in feature 1
 
+
+
+
+
+
+
+new changes in feature 3
 
